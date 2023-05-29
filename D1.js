@@ -20,7 +20,7 @@ let number= 10     //Valore number-->il valore number  racchiude semplicemente d
 let animale4= true //Valore booeland-->il valore booeland è un valore che dichiara cosa è vero e cosa è falso.
 
 /* ESERCIZIO 2
- Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
+ Crea una variable chiamata "nome" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
@@ -34,7 +34,7 @@ const nome="erica"
 let number1= 12
 let number2= 20
 let number3= number1 + number2
-console.log(number3)
+console.log("number3",number3)
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
@@ -44,7 +44,7 @@ console.log(number3)
 let x=12
 
 /* ESERCIZIO 5
-  Riassegna un nuovo valore alla variabile "name" già esistente: il tuo cognome.
+  Riassegna un nuovo valore alla variabile "nome" già esistente: il tuo cognome.
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
 
